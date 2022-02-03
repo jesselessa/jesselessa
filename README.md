@@ -5,5 +5,5 @@
 
 - 🔎 I'm currently looking for a 6 months internship in full stack development from May 2nd
 - 📫 If you are interested in my profile or know someone who could be, do not hesitate to reach me via the links below :
-jessica.elessa@gmail.com   
-https://www.linkedin.com/in/jessicaelessa/
+- jessica.elessa@gmail.com   
+- https://www.linkedin.com/in/jessicaelessa/
