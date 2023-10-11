@@ -5,6 +5,10 @@
 - 💞️ In addition to programming, my other passions are cooking and traveling
 - 💼 I’m looking to collaborate on exciting and meaningful projects
 
-### 📫 If you want to contact me :
-- Email : contact@jesselessa.com   
-- LinkedIn : https://www.linkedin.com/in/jessica-elessa/
+## 📫 If you are interested in my profile, do not hesitate to contact me !
+
+## 👉 Email : 
+contact@jesselessa.com
+
+## 👉 LinkedIn : 
+https://www.linkedin.com/in/jessica-elessa/
