@@ -11,8 +11,5 @@
 
 ##  I’m looking to collaborate on exciting and meaningful projects, therefore, if you are interested in my profile, do not hesitate to contact me !
 
-## 📫 Email : 
-contact@jesselessa.com
-
-## 💼 LinkedIn : 
+## 👉 LinkedIn : 
 https://www.linkedin.com/in/jessica-elessa/
