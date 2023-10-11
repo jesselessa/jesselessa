@@ -1,7 +1,7 @@
 # 👋 Hi, I'm @jesselessa, a full stack developer based in Paris, France
 
 ## 👩🏽‍💻 About me
-I've been a lawyer for eleven years before retraining professionally as a web developer
+I've been a lawyer for eleven years before retraining professionally as a web and mobile developer
 
 ## 🌱 Skills
 My stack notably includes JavaScript, jQuery, React, React Native, Node.js, Express, Next.js, databases in SQL (MySQL/PostgreSQL) and NoSQL (MongoDB) 
