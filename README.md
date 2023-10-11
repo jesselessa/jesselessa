@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @jesselessa, a web and mobile developer based in Paris, France
+# 👋 Hi, I'm @jesselessa, a full stack developer based in Paris, France
 
 ## About me
 
