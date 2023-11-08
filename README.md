@@ -9,7 +9,7 @@ My stack notably includes JavaScript, jQuery, React, React Native, Node.js, Expr
 ## 💞️ Other interests
 In addition to programming, my other passions are cooking and traveling
 
-## 👉 [Check my portfolio](https://jesselessa.com){:target="_blank"}
-I’m looking to collaborate on exciting and meaningful projects, therefore, if you are interested in my profile, do not hesitate to contact me via [LinkedIn](https://www.linkedin.com/in/jessica-elessa/){:target="_blank"}
+## 👉 [Check my portfolio](https://jesselessa.com)
+I’m looking to collaborate on exciting and meaningful projects, therefore, if you are interested in my profile, do not hesitate to contact me via [LinkedIn](https://www.linkedin.com/in/jessica-elessa/)
 
 
