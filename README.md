@@ -4,7 +4,7 @@
 I've been a lawyer for eleven years before retraining professionally as a web and mobile developer
 
 ## 🌱 Skills
-My stack notably includes JavaScript, jQuery, React, React Native, Node.js, Express, Next.js and databases in SQL (MySQL, PostgreSQL) and NoSQL (MongoDB) 
+My stack notably includes JavaScript, jQuery, React, React Native, Node.js, Express, and databases in SQL (MySQL, PostgreSQL) and NoSQL (MongoDB) 
 
 ## 💞️ Other interests
 In addition to programming, my other passions are cooking and traveling
