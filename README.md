@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @jesselessa, a full stack developer based in Paris, France
+# 👋 Hi, I'm Jess, a full stack developer based in Paris, France
 
 ## 👩🏽‍💻 About me
 I've been a lawyer for eleven years before retraining professionally as a web and mobile developer
