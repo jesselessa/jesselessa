@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Jess, a full stack developer based in Paris, France
+# 👋 Hi, I'm Jess, a web developer based in Paris, France
 
 ## 👩🏽‍💻 About me
-I've been a lawyer for eleven years before retraining professionally as a web and mobile developer
+I've been a lawyer for eleven years before retraining professionally as a full-stack developer
 
 ## 🌱 Skills
 My stack notably includes JavaScript, jQuery, React, React Native, Node.js, Express, and databases in SQL (MySQL, PostgreSQL) and NoSQL (MongoDB) 
