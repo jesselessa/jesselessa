@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Jess, a web developer based in Paris, France
 
 ## 👩🏽‍💻 About me
-I've been a lawyer for eleven years before retraining professionally as a full-stack developer
+I've been a lawyer for eleven years before retraining professionally as a full-stack web developer.
 
 ## 🌱 Skills
-My stack notably includes JavaScript, jQuery, React, React Native, Node.js, Express, and databases in SQL (MySQL, PostgreSQL) and NoSQL (MongoDB) 
+My tech stack includes many front-end and back-end tools, such as JavaScript, jQuery, React, React Native, Node.js, Express.js, MySQL, PostgreSQL, MongoDB...
 
 ## 💞️ Other interests
-In addition to programming, my other passions are cooking and baking
+In addition to programming, my other passions are cooking and baking.
 
 ## ✉️ Contact me
-I’m looking to collaborate on exciting and meaningful projects, therefore, if you are interested in my profile, do not hesitate to contact me via [LinkedIn](https://www.linkedin.com/in/jessica-elessa/)
+I’m always ready to collaborate on challenging and meaningful projects, therefore, if you are interested in my profile, do not hesitate to contact me via [LinkedIn](https://www.linkedin.com/in/jessica-elessa/).
 
 ## 👉 [Check my portfolio](https://jessica-elessa-portfolio.netlify.app/)
