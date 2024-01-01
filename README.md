@@ -12,4 +12,4 @@ In addition to programming, my other passions are cooking and DIY.
 ## ✉️ Contact me
 I’m always ready to collaborate on challenging and meaningful projects, therefore, if you are interested in my profile, do not hesitate to contact me via [LinkedIn](https://www.linkedin.com/in/jessica-elessa/).
 
-## 👉 [Check my portfolio](https://jessica-elessa-portfolio.netlify.app/)
+## 👉 [Check my portfolio](https://)
