@@ -3,11 +3,14 @@
 ## 👩🏽‍💻 About me
 After eleven years as a lawyer, I decided to pursue my passion for technology and transitioned into a career as a full-stack web and mobile developer.
 
-## 🌱 Skills
+## 🌱 Main hard skills
 
-**Front-end :** JavaScript, TypeScript, React, React Native, Next.js... 
-
-**Back-end :** Node.js, Express.js, MySQL, PostgreSQL, MongoDB...
+**Languages :** HTML, CSS, Sass, JavaScript, TypeScript
+**Frameworks and libraries :**  React, React Native, Next.js, Node.js, Express.js, Tailwind CSS, Bootstrap 
+**Databases :** MySQL, PostgreSQL, MongoDB
+**Versioning and collaboration tools:** Git, GitHub, Slack, Trello
+**Design:** Figma, Canva
+**Containerization and Deployment:** Docker, AWS
 
 ## 💞️ Other interests
 Outside of coding, I love cooking and DIY.
