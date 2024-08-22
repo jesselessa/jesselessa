@@ -11,6 +11,7 @@ After eleven years as a lawyer, I decided to pursue my passion for technology an
 - **Versioning and collaboration tools :** Git, GitHub, Slack, Trello
 - **Design :** Figma, Canva
 - **Containerization and deployment :** Docker, AWS
+- **CMS:** WordPress
 
 ## 💞️ Other interests
 Outside of coding, I love cooking and DIY.
