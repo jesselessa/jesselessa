@@ -8,7 +8,7 @@ After eleven years as a lawyer, I decided to pursue my passion for technology an
 - **Languages :** HTML, CSS, Sass, JavaScript, TypeScript
 - **Frameworks and libraries :**  React, React Native, Next.js, Node.js, Express.js, Tailwind CSS, Bootstrap 
 - **Databases :** MySQL, PostgreSQL, MongoDB
-- **Versioning and collaboration tools:** Git, GitHub, Slack, Trello
+- **Versioning and collaboration tools :** Git, GitHub, Slack, Trello
 - **Design :** Figma, Canva
 - **Containerization and deployment :** Docker, AWS
 
@@ -16,6 +16,6 @@ After eleven years as a lawyer, I decided to pursue my passion for technology an
 Outside of coding, I love cooking and DIY.
 
 ## ✉️ Contact me
-I’m always ready to collaborate on challenging and meaningful projects. Therefore, do not hesitate to contact me via [LinkedIn](https://www.linkedin.com/in/jessica-elessa/).
+I’m always ready to collaborate on challenging and meaningful projects. Therefore, do not hesitate to contact me via [LinkedIn](https://www.linkedin.com/in/jesselessa/).
 
 ## 👉 [Check my portfolio](https://)
