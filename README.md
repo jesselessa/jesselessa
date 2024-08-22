@@ -5,12 +5,12 @@ After eleven years as a lawyer, I decided to pursue my passion for technology an
 
 ## 🌱 Main hard skills
 
-**Languages :** HTML, CSS, Sass, JavaScript, TypeScript
-**Frameworks and libraries :**  React, React Native, Next.js, Node.js, Express.js, Tailwind CSS, Bootstrap 
-**Databases :** MySQL, PostgreSQL, MongoDB
-**Versioning and collaboration tools:** Git, GitHub, Slack, Trello
-**Design:** Figma, Canva
-**Containerization and Deployment:** Docker, AWS
+- **Languages :** HTML, CSS, Sass, JavaScript, TypeScript
+- **Frameworks and libraries :**  React, React Native, Next.js, Node.js, Express.js, Tailwind CSS, Bootstrap 
+- **Databases :** MySQL, PostgreSQL, MongoDB
+- **Versioning and collaboration tools:** Git, GitHub, Slack, Trello
+- **Design:** Figma, Canva
+- **Containerization and Deployment:** Docker, AWS
 
 ## 💞️ Other interests
 Outside of coding, I love cooking and DIY.
