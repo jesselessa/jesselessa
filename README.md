@@ -19,4 +19,4 @@ Outside of coding, I love cooking and DIY.
 ## ✉️ Contact me
 I’m always ready to collaborate on challenging and meaningful projects. Therefore, do not hesitate to contact me via [LinkedIn](https://www.linkedin.com/in/jesselessa/).
 
-## 👉 [Check my portfolio]([https://jesselessa.netlify.app/])
+## 👉 [Check my portfolio](https://jesselessa.netlify.app/)
