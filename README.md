@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jess, a web developer based in Paris, France
 
 ## 👩🏽‍💻 About me
-After eleven years as a lawyer, I decided to pursue my passion for technology and transitioned into a career as a full-stack web and mobile developer.
+After eleven years as a lawyer, I decided to pursue my passion for technology and transitioned into a career as a full-stack developer.
 
 ## 🌱 Main hard skills
 
