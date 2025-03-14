@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Jess, a web developer based in Paris, France
 
 ## 👩🏽‍💻 About me
-After eleven years as a lawyer, I decided to pursue my passion for technology and transitioned into a career as a full-stack developer.
+After twelve years as a lawyer, I decided to pursue my passion for technology and transitioned into a career as a web developer.
 
 ## 🌱 Main hard skills
 
-- **Languages :** HTML, CSS, Sass, JavaScript, TypeScript
-- **Frameworks and libraries :**  React, React Native, Next.js, Node.js, Express.js, Tailwind CSS, Bootstrap 
+- **Languages :** HTML, CSS, Sass, JavaScript, TypeScript...
+- **Frameworks and libraries :**  React, React Native, Next.js, Node.js, Express.js, Tailwind CSS, Bootstrap... 
 - **Databases :** MySQL, PostgreSQL, MongoDB
 - **Versioning and collaboration tools :** Git, GitHub, Slack, Trello
 - **Design :** Figma, Canva
-- **Containerization and deployment :** Docker, AWS
+- **Containerization and deployment :** AWS, Docker
 - **CMS:** WordPress
 
 ## 💞️ Other interests
